@@ -1,1 +1,2 @@
-C Projects in my process of learning C
+<h1>goodolc</h1>
+<p>This repository will be used for my progress on learning C! I plan on learning C, then moving onto C++ afterwards. For legacy Apple programming, I will also learn objective-c. C# is on the list, probably before obj-c.</p>
